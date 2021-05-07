@@ -1,0 +1,24 @@
+{
+	"changeLogs": {
+		"BetterSearchPage": "1.2.0",
+		"CharCounter": "1.5.0",
+		"ChatAliases": "2.2.8",
+		"CreationDate": "1.4.1",
+		"CustomQuoter": "1.2.8",
+		"FriendNotifications": "1.7.0",
+		"ImageUtilities": "4.3.7",
+		"PluginRepo": "2.2.0",
+		"SendLargeMessages": "1.6.6",
+		"ServerDetails": "1.0.5",
+		"ShowHiddenChannels": "2.9.6",
+		"ThemeRepo": "2.2.0"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	}
+}
